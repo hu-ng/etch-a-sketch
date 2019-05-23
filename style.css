@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  width: 960px;
+  height: 960px;
+  border: 1px solid black;
+}
+
+.pink-bg {
+  background-color: pink;
+}
